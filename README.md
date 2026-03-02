@@ -1,3 +1,2 @@
 # GitHub Labs
-This repository is edited in MASTER
-This change is from conflict branch
+This repository conflict has been resolved.
