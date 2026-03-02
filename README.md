@@ -1,3 +1,3 @@
 # GitHub Labs
-This repository is for hands-on GitHub practice.MODIFIED
+This repository is edited in CONFLICT
 This change is from CONFLICT branch
